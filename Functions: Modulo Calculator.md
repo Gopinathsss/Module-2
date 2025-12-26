@@ -24,7 +24,8 @@ print(result(a,b))
 ```
 
 ## Output
-![Uploading 530162242-4ac91717-a5fd-4a05-8668-60933202dbec.png…]()
+<img width="1013" height="500" alt="530162242-4ac91717-a5fd-4a05-8668-60933202dbec" src="https://github.com/user-attachments/assets/98afb2c3-0f0e-46de-a4b8-868cacaa49d9" />
+
 
 ## Result
 we got  the successful output
